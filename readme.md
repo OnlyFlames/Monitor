@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple monitor I have drawn in the processing language
+A simple monitor I have drawn in the processing language.
 
 
 ## Code Samples
